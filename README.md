@@ -62,13 +62,13 @@ Sample analysis of the cardano foundation's docs repository
 
 ```txt
 C:\dev\cardano-foundation\docs-cardano-org\components\ouroboros.md (35 words)
-Top 10 (count, score)
+Top 2 (count, score)
 	ouroboros (1, 2,86%)
 		ouroboros network
 	network (1, 2,86%)
 		ouroboros network component
 C:\dev\cardano-foundation\docs-cardano-org\explore-cardano\addresses.md (709 words)
-Top 10 (count, score)
+Top 2 (count, score)
 	address (43, 6,06%)
 		address
 		base address
@@ -107,7 +107,7 @@ Top 10 (count, score)
 		furthermore stake associated
 		stake object
 C:\dev\cardano-foundation\docs-cardano-org\explore-cardano\cardano-fee-structure.md (411 words)
-Top 10 (count, score)
+Top 2 (count, score)
 	transaction (13, 3,16%)
 		cardano transaction fee
 		transaction fee
@@ -127,7 +127,7 @@ Top 10 (count, score)
 		minimal fee
 		payable fee regardless
 C:\dev\cardano-foundation\docs-cardano-org\explore-cardano\cardano-monetary-policy.md (861 words)
-Top 10 (count, score)
+Top 2 (count, score)
 	cardano (13, 1,51%)
 		cardano monetary
 		cardano aim

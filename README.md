@@ -26,6 +26,29 @@ A very basic keyword correlator.
   }
 }
 ```
+## Ignore
+
+```txt
+any
+and
+are
+as
+at
+be
+because
+between
+both
+by
+can
+cannot
+click
+consit
+different
+do
+end
+enter
+...
+```
 
 ## Output
 
@@ -122,4 +145,5 @@ Top 10 (count, score)
 		higher reward
 		high reward
 		unclaimed reward automatically
+...
 ```

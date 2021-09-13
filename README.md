@@ -4,6 +4,8 @@ A very basic keyword correlator.
 
 ## Settings
 
+Configurable file analysis with sequence whitelisting and lemma support 
+
 ```json
 {
   "RootDirectory": "C:\\SOME\\PATH\\TO\\A\\DIRECTORY",
@@ -26,9 +28,13 @@ A very basic keyword correlator.
   }
 }
 ```
+
 ## Ignore
 
+Blacklist words to optimize output entropy 
+
 ```txt
+...
 any
 and
 are
@@ -51,6 +57,8 @@ enter
 ```
 
 ## Output
+
+Sample analysis of the cardano foundation's docs repository
 
 ```txt
 C:\dev\cardano-foundation\docs-cardano-org\components\ouroboros.md (35 words)

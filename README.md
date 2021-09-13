@@ -16,7 +16,7 @@ Configurable file analysis with sequence whitelisting and lemma support
     "IgnoreCase": true,
     "IgnoreSpecialCharacters": true,
     "WordsToIgnore": "ignore.txt",
-    "SequencesToInclude": "",
+    "SequencesToInclude": "include.txt",
     "Lemmas": {
       "ambassador": [ "ambassadors" ],
       "have": [ "has", "had", "having" ],
@@ -29,7 +29,9 @@ Configurable file analysis with sequence whitelisting and lemma support
 }
 ```
 
-## Ignore
+## Optimize
+
+### ignore.txt
 
 Blacklist words to optimize output entropy 
 
@@ -54,6 +56,15 @@ do
 end
 enter
 ...
+```
+### include.txt
+
+```txt
+no fee
+new address
+above a
+below a
+between a
 ```
 
 ## Output

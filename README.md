@@ -59,12 +59,15 @@ enter
 ```
 ### include.txt
 
+Whitelist certain sequences so they don't get ignored, even if the words are blacklisted
+
 ```txt
 no fee
 new address
-above a
-below a
-between a
+above any
+below any
+between any
+do consider
 ```
 
 ## Output
